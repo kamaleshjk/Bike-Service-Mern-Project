@@ -49,3 +49,10 @@ npm start
 ```cd
 npm run dev
 ```
+
+**Open the Link**
+
+``link
+http://localhost:5173/
+```
+
