@@ -44,7 +44,7 @@ Run The Below Command to Start
 npm start
 ```
 
-**In Frontend**
+**In Frontend Terminal**
 
 ```cd
 npm run dev
