@@ -6,17 +6,25 @@
  
 **3**. Mongodb
 
-## Download Github project as zip
-Extract the project file and open in visual studio
 
-Open the terminal in visual studio or `ctrl+` `
 
 Run the Given commands
 
+```
+git clone https://github.com/kamaleshjk/Bike-Service-Mern-Project.git
+```
+
+```
+cd  Bike-Service-Mern-Project
+
+```
+
+
+
 **Backend**
 
-```cd
-cd/bikeservice/backend
+```
+cd bikeservice/backend
 ```
 
 ```install
@@ -27,7 +35,7 @@ Open New Terminal
 **Frontend**
 
 ```cd
-cd/bikeservice/frontend
+cd bikeservice/frontend
 ```
 
 ```install
