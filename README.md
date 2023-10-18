@@ -13,8 +13,21 @@
 
 Run the Given commands
 
+**Backend**
+
 ```cd
 cd/bikeservice/backend
+```
+
+```install
+npm install
+```
+Open New Terminal
+
+**Frontend**
+
+```cd
+cd/bikeservice/frontend
 ```
 
 ```install
