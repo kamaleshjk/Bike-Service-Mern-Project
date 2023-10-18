@@ -34,7 +34,7 @@ cd/bikeservice/frontend
 npm install
 ```
 
-## Run The Programm
+## Run The Program
 
 Run The Below Command to Start
 
