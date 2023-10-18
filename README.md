@@ -56,4 +56,4 @@ npm run dev
 http://localhost:5173/
 ```
 
-![GitHub Logo](/images/Screenshot 2023-10-18 171746.png)
+![GitHub Logo](Bike-Service-Mern_Project/images/Screenshot 2023-10-18 171746.png)
