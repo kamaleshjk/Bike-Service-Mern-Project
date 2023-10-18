@@ -1,10 +1,10 @@
 # Bike-Service-Mern-Project
-## Required softwares
-**1**. Visual Studio
+## Requirements
+**1**. Visual Studio code
 
-**2**. Reactjs
+**2**. npm
  
-**3**. Mongodb
+**3**. MongoDB compass
 
 
 
