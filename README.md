@@ -52,7 +52,7 @@ npm run dev
 
 **Open the Link**
 
-``link
+```link
 http://localhost:5173/
 ```
 
