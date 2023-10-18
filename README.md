@@ -62,7 +62,7 @@ http://localhost:5173/
 ![alt text](https://github.com/kamaleshjk/Bike-Service-Mern-Project/blob/main/images/Screenshot%202023-10-18%20171746.png
  "Logo Title Text 1")
 
- **Logein Page**
+ **Login Page**
 
  ![alt text](https://github.com/kamaleshjk/Bike-Service-Mern-Project/blob/main/images/Screenshot%202023-10-18%20171803.png
  "Logo Title Text 1")
