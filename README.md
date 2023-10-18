@@ -55,6 +55,24 @@ npm run dev
 ```link
 http://localhost:5173/
 ```
+## OUTPUT OF THE CODE
+
+**Register page**
 
 ![alt text](https://github.com/kamaleshjk/Bike-Service-Mern-Project/blob/main/images/Screenshot%202023-10-18%20171746.png
+ "Logo Title Text 1")
+
+ **Logein Page**
+
+ ![alt text](https://github.com/kamaleshjk/Bike-Service-Mern-Project/blob/main/images/Screenshot%202023-10-18%20171803.png
+ "Logo Title Text 1")
+
+ **Home Page**
+
+ ![alt text](https://github.com/kamaleshjk/Bike-Service-Mern-Project/blob/main/images/Screenshot%202023-10-18%20171823.png
+ "Logo Title Text 1")
+
+ **Service Register Page**
+
+ ![alt text](https://github.com/kamaleshjk/Bike-Service-Mern-Project/blob/main/images/Screenshot%202023-10-18%20171854.png
  "Logo Title Text 1")
