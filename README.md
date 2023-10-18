@@ -33,3 +33,19 @@ cd/bikeservice/frontend
 ```install
 npm install
 ```
+
+## Run The Programm
+
+Run The Below Command to Start
+
+**In Backend Terminal**
+
+```cd
+npm start
+```
+
+**In Frontend**
+
+```cd
+npm run dev
+```
